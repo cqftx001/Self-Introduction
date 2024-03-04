@@ -1,3 +1,5 @@
+***Continuous Learning***
+MSEE @ University of Southern California (USC)
 - 👋 Hi, I’m @cqftx001
 - 👀 I’m interested in Software Development and Computer Networks
 - 🌱 I'm currently majoring in Electrical Engineering
