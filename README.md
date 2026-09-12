@@ -2,14 +2,15 @@
 
 ### Backend-focused Software Engineer
 
-I build reliable backend systems with **Java and Spring Boot**, interested in building reliable, scalable software systems.
+I build backend systems with **Java and Spring Boot**, with a focus on
+reliability, scalability, and clean system design.
 
 My current interests include **backend engineering, distributed systems,
 platform infrastructure, and applied AI/ML**.
 
-Incoming **M.S. in Computer Science student at Georgia Tech** in Spring 2027.
+Incoming **M.S. in Computer Science student at Georgia Tech**, starting Spring 2027.
 
-Seeking **Software Engineer Internship** in Summer 2027.
+Seeking a **Software Engineering Internship** for Summer 2027.
 
 ---
 
@@ -42,7 +43,6 @@ Seeking **Software Engineer Internship** in Summer 2027.
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!---
-cqftx001/cqftx001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Authorized to work in the U.S. without current or future sponsorship.
