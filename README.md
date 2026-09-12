@@ -45,4 +45,4 @@ Seeking a **Software Engineering Internship** for Summer 2027.
 
 ---
 
-Authorized to work in the U.S. without current or future sponsorship.
+U.S. Permanent Resident · Authorized to work without sponsorship.
