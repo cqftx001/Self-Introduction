@@ -2,90 +2,46 @@
 
 ### Backend-focused Software Engineer
 
-I build reliable backend systems with **Java and Spring Boot**, with particular
-interest in authentication, transactional systems, distributed architecture,
-and data consistency.
+I build reliable backend systems with **Java and Spring Boot**, interested in building reliable, scalable software systems.
 
-Currently preparing to begin the **M.S. in Computer Science at Georgia Tech**
-in Spring 2027.
+My current interests include **backend engineering, distributed systems,
+platform infrastructure, and applied AI/ML**.
+
+Incoming **M.S. in Computer Science student at Georgia Tech** in Spring 2027.
+
+Seeking **Software Engineer Internship** in Summer 2027.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-green)
-![Spring Security](https://img.shields.io/badge/Spring-Security-green)
+**Backend**  
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
-### Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+**Data & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-### Also work with
-`React` · `TypeScript` · `Python` · `GitHub Actions` · `Flyway`
+**Languages & Frontend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
+**Engineering**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 What I'm Building
-
-### CampusHub
-
-A modular backend platform for a campus marketplace.
-
-The project is designed around **explicit module boundaries** and a path toward
-future microservice extraction.
-
-**Highlights**
-
-- Modular monolith architecture
-- Authentication and session management
-- Refresh-token rotation and session revocation
-- Domain events and module isolation
-- PostgreSQL schema ownership
-- Architecture validation with ArchUnit
-
-**Stack:**  
-`Java 21` `Spring Boot` `PostgreSQL` `Redis` `Flyway` `Docker`
-
-→ [View CampusHub](https://github.com/cqftx001/CampusHub)
-
----
-
-### BankX
-
-A secure banking backend designed around **transaction correctness,
-concurrency, and authorization**.
-
-**Highlights**
-
-- Atomic money transfers
-- Optimistic locking for concurrent updates
-- Idempotent transaction requests
-- JWT authentication
-- Fine-grained permission-based authorization
-- Redis-backed token revocation
-- Dynamic transaction search
-
-**Stack:**  
-`Java` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Redis`
-
-→ [View BankX](https://github.com/cqftx001/bankX)
-
----
-
-## 🧠 Engineering Interests
-
-```text
-Backend Architecture
-├── API Design
-├── Authentication & Authorization
-├── Transaction Processing
-├── Concurrency & Data Consistency
-├── Caching
-└── Distributed Systems
 <!---
 cqftx001/cqftx001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
